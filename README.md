@@ -1,4 +1,4 @@
-## Name: ChatGPT 4 Client
+## ChatGPT 4 Client
 
 ### Description
 The **ChatGPT Node Client** is a Node.js script that interacts with the [ChatGPT](https://chatgpt.ai/) API to have a conversation with the ChatGPT AI model. This script sends a user's input question to the ChatGPT API and receives a response from the AI model, allowing for interactive conversations.
